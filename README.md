@@ -1,6 +1,6 @@
 # Software Engineer 
 
-Software Engineer based in Northern Ireland. Passionate about virtual reality, spatial computing, systems programming, hobby robotics and full-stack development.
+Software Engineer based in Belfast. Passionate about virtual reality, spatial computing, systems programming, hobby robotics and full-stack development.
 
 ### Core Technologies
 
