@@ -13,7 +13,7 @@ Software Engineer based in Belfast. Passionate about virtual reality, spatial co
 
 ### Featured Projects
 
-*   **[Moonlight-XR]([https://github.com/Gilleece/CitraVR-Pico](https://github.com/Gilleece/moonlight-android-xr)):** A VR headset port of the Moonlight client that implements a realtime 3D conversion model.
+*   **[Moonlight-XR](https://github.com/Gilleece/moonlight-android-xr):** A VR headset port of the Moonlight client that implements a realtime 3D conversion model.
 *   **[CitraVR-Pico](https://github.com/Gilleece/CitraVR-Pico):** Ported the Citra emulator to the Pico XR platform. Implemented C++ hardware architecture modifications and performance optimizations for spatial computing environments.
 *   **[Navi-Os](https://gilleece.github.io/Navi-Os/):** Browser-based desktop operating system simulation with integrated WebXR support. Developed advanced 3D user interfaces utilizing Three.js.
 *   **[LinuxRemoteDesktopXR](https://github.com/Gilleece/LinuxRemoteDesktopXR):** Remote desktop application tailored for Linux and extended reality ecosystems.
